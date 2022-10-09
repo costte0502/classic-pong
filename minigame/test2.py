@@ -104,4 +104,3 @@ while True:
         ball.setx(-340)
         winsound.PlaySound("paddles.wav",winsound.SND_ASYNC)
         ball.dx*=-1
-    
